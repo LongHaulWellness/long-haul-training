@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Your exported data: Strava dumps, Garmin pulls, screenshots
+data/
+
+# PDFs (old plans, race calendars)
+*.pdf
+
+# Secrets
+.env
